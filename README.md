@@ -1,6 +1,4 @@
 # Novisto backend test
-> Pre-requisites
-Python 3.6.+ or any higher version.
 
 1. 
 ---
@@ -52,3 +50,6 @@ To see the information read from the database with the CSV imported data, you ca
 There are routes grouped by `Metrics` and `Value Definitions`. You can test all these routes according to the documentation provided.
 
 **NOTE:** In the API solution, the CSV import has been added just in case you skip running the step two.
+
+> Pre-requisites
+Python 3.6.+ or any higher version.
