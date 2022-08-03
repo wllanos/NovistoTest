@@ -41,6 +41,7 @@ To complete the API, I have used FastAPI Framework.
 - The message **"Welcome to Novisto API V1.0"** will be displayed.
 
 4.
+---
 To call the API endpoint, type the following address in a browser: (http://127.0.0.1:8000/v1_0/docs)
 
 One of the advantages of using **FastAPI** is the automatic documentation feature, as it includes Swagger and a list of all the routes including documentation are available.
