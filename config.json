@@ -1,0 +1,18 @@
+{
+   "DEFAULT": {
+       "SQLALCHEMY_DATABASE_URL": "sqlite:///./db/test.db",
+	   "DATABASE": "db/test.db"
+   },
+   "TESTING": {
+       "SQLALCHEMY_DATABASE_URL": "sqlite:///./db/test.db",
+	   "DATABASE": "db/test.db"
+   },
+   "PRODUCTION": {
+       "SQLALCHEMY_DATABASE_URL": "sqlite:///./db/test.db",
+	   "DATABASE": "db/test.db"
+   }
+}
+
+
+
+       
