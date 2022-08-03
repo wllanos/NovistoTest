@@ -23,7 +23,7 @@ This function will be executed in the **function.py** script. SQL statement "cre
 ---
 To import the CSV file, follow the next steps:
 
-- Clone the [repository](https://github.com/wllanos/NovistoTest).
+- Clone the [repository](https://github.com/wllanos/NovistoTest.git).
 - **NOTE**: All these files run with python 3.6+ or any higher version (According to the instructions).
 - To install all the required libraries, run the following command:
 		`pip install -r requirements.txt`
